@@ -1,6 +1,6 @@
 ## 💊 Super Store Sales Dashboard  
 
-![Dashboard Preview](./Screenshot_2025-02-06_103903.png)  
+
 
 ### 📌 Overview  
 This project is a **Power BI dashboard** designed to analyze **Super Store sales data**. It includes **interactive visualizations**, sales trends, regional breakdowns, and **15-day sales forecasting** using **time series analysis**.
